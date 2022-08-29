@@ -1,3 +1,7 @@
+# NFT-Marketplace-Moralis
+</br>
+
+Functions: </br> </br>
 1. Home Page:
     1. Show recently listed NFTs
     2. If not, you can buy the listings
